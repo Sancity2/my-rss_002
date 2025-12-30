@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>我的测试频道</title>
+    <title>我的私人訊息站</title>
     <link>https://kuochihchiang081-sketch.github.io/my-rss_002/</link>
-    <description>测试诺瓦播放器RSS显示</description>
+    <description>這裡是發布個人文字訊息的地方</description>
     <item>
-      <title>这是一条测试标题</title>
+      <title>测试标题：你好 NovaStar</title>
       <link>https://kuochihchiang081-sketch.github.io/my-rss_002/</link>
-      <description>这里是你的测试内容，如果看到这段文字，说明RSS配置成功了。</description>
+      <description>如果你看到这段文字，说明你的自定义 RSS 已经配置成功了！</description>
       <pubDate>Mon, 29 Dec 2025 12:00:00 +0800</pubDate>
-      <guid>test-001</guid>
+      <guid>test-20251229-01</guid>
     </item>
   </channel>
 </rss>
