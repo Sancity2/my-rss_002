@@ -4,13 +4,12 @@
     <title>我的私人信息站</title>
     <link>https://sancity2.github.io/my-rss_002/</link>
     <description>自主发布的 LED 屏幕文字信息</description>
-    
     <item>
       <title>测试内容：自主仓库发布成功</title>
-      <link>https://您的用户名.github.io/您的仓库名/</link>
-      <description>如果您能看到这条信息，说明已经成功摆脱了他人仓库的干扰。当前时间：2025-12-30</description>
-      <pubDate>Tue, 30 Dec 2025 10:00:00 +0800</pubDate>
-      <guid>msg-unique-001</guid>
+      <link>https://sancity2.github.io/my-rss_002/</link>
+      <description>如果您能看到这条信息，说明地址和格式都已经修正成功了。当前时间：2025-12-30</description>
+      <pubDate>Tue, 30 Dec 2025 14:00:00 +0800</pubDate>
+      <guid>msg-20251230-001</guid>
     </item>
   </channel>
 </rss>
